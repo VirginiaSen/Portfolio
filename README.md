@@ -18,4 +18,5 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Contacts
 virginiasenis@gmail.com
+
 https://www.linkedin.com/in/virginiasenis/
